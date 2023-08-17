@@ -19,7 +19,7 @@ The dashboard reveals the levels and extent of COVID spread in the WHO region, a
 
 ![](https://github.com/That-Bello/Genesis101/blob/main/WHO_Covid_Dashboard_2022.png)
 
-Visit this link on my Tableau Public profile [https://public.tableau.com/views/WHOCoronavirusCOVID-19/WHOCoronavirusCOVID-19Analysis?:language=en-US&:display_count=n&:origin=viz_share_link] to interact with the dashboard
+Visit this link on my Tableau Public profile [[here](https://public.tableau.com/views/WHOCoronavirusCOVID-19/WHOCoronavirusCOVID-19Analysis?:language=en-US&:display_count=n&:origin=viz_share_link)] to interact with the dashboard
 
 ---
 
