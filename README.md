@@ -17,7 +17,7 @@ The dashboard reveals the levels and extent of COVID spread in the WHO region, a
 
 ### Behold my first ever dashboard
 
-![](WHO_Covid_Dashboard_2022)
+![](https://github.com/That-Bello/Genesis101/blob/main/WHO_Covid_Dashboard_2022.png)
 
 ## WORTH TO LOOK INTO
 ### Cases
