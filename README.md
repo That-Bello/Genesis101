@@ -15,9 +15,13 @@ The dashboard reveals the levels and extent of COVID spread in the WHO region, a
 3. Cases and Death by WHo Region
 4. Geographical Representation of WHO COvid-19 Regions
 
-### Behold my first ever dashboard
+### Behold my first ever dashboard :wink
 
 ![](https://github.com/That-Bello/Genesis101/blob/main/WHO_Covid_Dashboard_2022.png)
+
+Visit this link on my Tableau Public profile [here]https://public.tableau.com/views/WHOCoronavirusCOVID-19/WHOCoronavirusCOVID-19Analysis?:language=en-US&:display_count=n&:origin=viz_share_link to interact with the dashboard
+
+---
 
 ## WORTH TO LOOK INTO
 ### Cases
