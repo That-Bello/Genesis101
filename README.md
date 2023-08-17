@@ -1,7 +1,11 @@
-# WHO Coronavirus (COVID-19) Analysis
-**WORLD HEALTH ORGANIZATION DATA AS AT 15 AUGUST, 2022**
+# WHO Corona Virus (COVID-19) Analysis
+*WORLD HEALTH ORGANIZATION DATA AS AT 15 AUGUST, 2022*
+_________________________________________________________
 
-## Tool used : TABLEAU
+### Tool used : TABLEAU
+### Sources: WHO Websites
+
+---
 
 This project is on WHO Coronavirus (COVID-19) Analysis
 The dashboard reveals some of the key metrics like: 
@@ -18,4 +22,4 @@ Also, it is pertinent to note that preventions are better communicated in clear
 and concise manners to the locals in these regions so as to slow the rate at which 
 these viruses are spread.
 
-- Sources: WHO Websites
+
